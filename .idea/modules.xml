@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\NB004\Downloads\voice-master\voice-master\VoiceToText.iml" filepath="C:\Users\NB004\Downloads\voice-master\voice-master\VoiceToText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\jou\Downloads\voice-master-master\voice-master-master\voice-master.iml" filepath="C:\Users\jou\Downloads\voice-master-master\voice-master-master\voice-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/voice-master-master.iml" filepath="$PROJECT_DIR$/voice-master-master.iml" />
+    </modules>
+  </component>
+</project>
